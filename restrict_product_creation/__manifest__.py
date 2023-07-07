@@ -23,7 +23,7 @@
     'version': '16.0',
     'author': 'Loyal IT Solutions Pvt Ltd',
     'category': 'Sales',
-    'summary': 'Restrict creation of the products',
+    'summary': 'Restrict creation of the products | User restriction from creating products',
     'description': """
         This module is for restricting products creation from unauthorized users. | Products Creation Restriction
     """,
